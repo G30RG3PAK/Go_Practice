@@ -1,2 +1,2 @@
 # Go_Practice
-This repository is for practicing  Go lang.
+This repository is used for practicing Go language from noob to imortal.
